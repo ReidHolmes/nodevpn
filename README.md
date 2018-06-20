@@ -4,6 +4,6 @@
   * [Windows客户端](https://raw.githubusercontent.com/newbreedlimited/nodevpn/master/NODEVPN_1_0_3_0.zip)
 
 - **Android平台:**
-  * [Android客户端](https://github.com/newbreedlimited/nodevpn/blob/master/nodevpn-release_3.0.1_unsign_signed.apk)
+  * [Android客户端](https://github.com/newbreedlimited/nodevpn/blob/master/nodevpn-release_3.0.2_signed.apk)
 
     
