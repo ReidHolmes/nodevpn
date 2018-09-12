@@ -8,4 +8,4 @@
 
 
 - **iOS平台:**
-  * [iOS客户端](https://itunes.apple.com/us/app/vpn-sgreen-vpn/id1396328767?l=zh&ls=1&mt=8)
+  * [iOS海外客户端](https://itunes.apple.com/us/app/vpn-sgreen-vpn/id1396328767?l=zh&ls=1&mt=8)
