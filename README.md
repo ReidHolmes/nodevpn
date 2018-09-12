@@ -7,5 +7,5 @@
   * [Android客户端](https://github.com/newbreedlimited/nodevpn/blob/master/nodevpn_3.0.1e_signed.apk?raw=true)
 
 
-    - **iOS平台:**
+- **iOS平台:**
   * [iOS客户端](https://itunes.apple.com/us/app/vpn-sgreen-vpn/id1396328767?l=zh&ls=1&mt=8)
